@@ -11,7 +11,7 @@
 - 💼 Intern – **Mobile App Developer** at Sumpro India Pvt. Ltd. *(Ongoing)*
 - 🔧 Building **RESTful APIs** with Python & FastAPI and **cross-platform mobile apps** with React Native
 - 🌱 Currently learning **Azure deployment** and **cloud-based backend architecture**
-- 🏆 Certified in **Python, FastAPI & Azure** (CS50 Harvard, Q Spiders)
+- 🏆 Certified in **Python, FastAPI & Azure** (CS50 Harvard)
 - 📫 Reach me at: **[rohitdiwakar441@gmail.com](mailto:rohitdiwakar441@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/rohit-diwakar-01915a210/)** | **[GitHub](https://github.com/RohitDiwakar441)**
 - ⚡ Fun fact: I love turning ideas into reality through code
 
