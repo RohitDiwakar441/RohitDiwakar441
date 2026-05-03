@@ -8,7 +8,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 💼 Intern – **Mobile App Developer** at Sumpro India Pvt. Ltd. *(Ongoing)*
+- 💼 Intern – **Associate - Software Developer** at Sumpro India Pvt. Ltd. *(Ongoing)*
 - 🔧 Building **RESTful APIs** with Python & FastAPI and **cross-platform mobile apps** with React Native
 - 🌱 Currently learning **Azure deployment** and **cloud-based backend architecture**
 - 🏆 Certified in **Python, FastAPI & Azure** (CS50 Harvard)
